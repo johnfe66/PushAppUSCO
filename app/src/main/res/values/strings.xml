@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push App</string>
+    <string name="channel_id">channelId</string>
+    <string name="channel_name">Channel name</string>
+</resources>
